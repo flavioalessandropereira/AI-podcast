@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src=".github/assets/img/idoso_tecn.jpg"
-    width="400"  
+    width="200"  
 />
 </p>
 
