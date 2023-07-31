@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/img/idoso_tecn.jpg"
+    src=".github/assets/img/idoso_tecn.jpg"
     width="400"  
 />
 </p>
