@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src=".github/assets/img/idoso_tecn.jpg"
+    src=".github/assets/img/capapodcast.png"
     width="200"  
 />
 </p>
