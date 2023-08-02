@@ -1,8 +1,6 @@
 <p align="center">
 <img 
     src=".github/assets/img/capapodcast.png"
-      
-/>
 </p>
 
 # Projeto PodCast I.A.
