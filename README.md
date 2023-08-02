@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src=".github/assets/img/capapodcast.png"
-    width="200"  
+    width="300"  
 />
 </p>
 
