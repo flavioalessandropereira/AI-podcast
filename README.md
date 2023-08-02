@@ -9,11 +9,13 @@
 Objetivo é criar um podcast por IA, refinado para proporcionar uma experiência auditiva única e enriquecedora.
 
 🔊 [Áudio Podcast](.github/assets/audio/TechVolucao1.mp3) - TechVOLUÇÃO: Reinventando Carreiras
+🎥 [Vídeo Podcast](.github/assets/audio/podCastTransicaoCarreira.mp4) - TechVOLUÇÃO: Reinventando Carreiras
 
 ## 💻 Tecnologias utilizadas no projeto:
- - [ChatGPT](https://chat.openai.com/) 
- - [Leonardo AI](https://app.leonardo.ai/)
- - [Elevenlabs.io](https://elevenlabs.io/) 
+* imagens: https://app.leonardo.ai/
+* produção do texto: https://chat.openai.com/
+* produção do áudio: https://elevenlabs.io/
+* produção do vídeo: https://studio.d-id.com/
 
 ## 📰 Prompts e ferramentas
  ChatGPT:
