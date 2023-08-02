@@ -8,8 +8,8 @@
 # Projeto PodCast I.A.
 Objetivo é criar um podcast por IA, refinado para proporcionar uma experiência auditiva única e enriquecedora.
 
-🔊 [Áudio Podcast](.github/assets/audio/TechVolucao1.mp3) - TechVOLUÇÃO: Reinventando Carreiras
-🎥 [Vídeo Podcast](.github/assets/audio/podCastTransicaoCarreira.mp4) - TechVOLUÇÃO: Reinventando Carreiras
+* 🔊 [Áudio Podcast](.github/assets/audio/TechVolucao1.mp3) - TechVOLUÇÃO: Reinventando Carreiras
+* 🎥 [Vídeo Podcast](.github/assets/audio/podCastTransicaoCarreira.mp4) - TechVOLUÇÃO: Reinventando Carreiras
 
 ## 💻 Tecnologias utilizadas no projeto:
 * imagens: https://app.leonardo.ai/
